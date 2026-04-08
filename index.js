@@ -7,7 +7,6 @@ function changeHeadingText() {
     heading.textContent = 'DOM Manipulation Challenge';
   }
 }
-
 /**
  * Selects the element with the id 'box-to-modify' and changes its background color to 'lightblue'.
  */
